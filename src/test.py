@@ -54,39 +54,35 @@ def yam(word):
 log.info('#' * 50)
 log.info(yam('Start'))
 log.info('#' * 50)
+itm = 0
 
-running_builder = []
+hash_key = {
+    'One': 1,
+    'two': 2,
+    'three': 3,
+    'four': 4,
+    'five three': 5,
+    'six four': 6
+}
+print('Chose the running item from above(1..n):')
 
-if os.path.exists(Constant.APP_PATH.RESOURCE + '/coc_game_builder.json') and os.path.isfile(
-        Constant.APP_PATH.RESOURCE + '/coc_game_builder.json'):
-    with open(Constant.APP_PATH.RESOURCE + '/coc_game_builder.json') as builder_filehandler:
-        # running_builder = json.load(builder_filehandler)
-        pass
-else:
-    log.error(f'COC Builder DB {Constant.APP_PATH.RESOURCE}/coc_game_builder.json is missing')
-    sys.exit(1)
-
-for x in range(0,5):
-    running_builder.append(
-        {
-            "Name": 'Builder ' + str(x+1),
-            'Status': Constant.Builders.INACTIVE,
-            "Item": "None",
-            "Duration": "0:00:00",
-            "start_time": datetime.now(tz=timezone.utc),
-            "from_level": 0,
-            "end_time": datetime.now(tz=timezone.utc),
-            "Time_to_complete": datetime.now(tz=timezone.utc),
-
-        }
-    )
-
+l = list(enumerate(hash_key.keys()))
+i = 0
+print(l)
+print(len(l))
+print(min(6+2, len(l)))
+while itm <= 0:
+    print(l[i])
+    for x in range(i, min(i+2, len(l))):
+        print(l[x][0])
+    i += 2
+    if i < len(l) and i % 2 == 0:
+        itm = int(input('chose:'))
+    if i > len(l):
+        break
 
 
-print(running_builder)
 
-with open(Constant.APP_PATH.RESOURCE + '/coc_game_builder.json', 'w') as json_filehandler:
-    json.dump(running_builder, json_filehandler, default=datetime_serilizer, indent=4)
 
 log.info('#' * 50)
 log.info(yam('Done'))

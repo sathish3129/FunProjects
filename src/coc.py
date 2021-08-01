@@ -35,7 +35,7 @@ log.setLevel(logging.INFO)
 
 
 def datetime_serilizer(o):
-    if isinstance(o, datetime):
+    if isinstance(o, (datetime, timedelta)):
         return o.__str__()
 
 
@@ -141,14 +141,17 @@ for build in running_builder:
             current_level[build['Item']]['Levels'][str(build['from_level'] + 1)] = 1
 
     # list down other items
-    for sub_build in running_builder:
-        if (not sub_build['Status']) or sub_build['Name'] == build['Name']:
+    for sub_build in sorted(
+            filter(lambda x: x['Status'] is Constant.Builders.RUNNING, running_builder),
+            key=lambda x: x['end_time'], reverse=False):
+        if sub_build['Name'] == build['Name']:
             continue
-        print('{0} updating {1} from {2} to {3}'.format(
+        print('{0} updating {1} from {2} to {3} with remaining time {4}'.format(
             sub_build['Name'],
             sub_build['Item'],
             sub_build['from_level'],
-            sub_build['from_level'] + 1
+            sub_build['from_level'] + 1,
+            sub_build['end_time'] - datetime.now(tz=timezone.utc),
         ))
 
     _new_runner = to_bool(input(f'Going to schedule new item for {build["Name"]} [y/n]:'))
@@ -156,7 +159,7 @@ for build in running_builder:
     if _update_runner and _new_runner:
         for ix, it in enumerate(list(sorted(current_level.keys())), start=1):
             print(f'{ix}. {it}')
-        itm = input('Chose the running item from above(1..n):')
+        print('Chose the running item from above(1..n):')
         build["Item"] = list(sorted(current_level.keys()))[int(itm) - 1]
 
         _update_to = int(input(f'{build["Name"]} updating the {build["Item"]} to:'))
@@ -258,7 +261,7 @@ for ty in sorted(required_info.keys(), key=lambda x: current_level[x]['priority'
                  reverse=True):
     log.info(
         f'{ty} with {current_level[ty]["priority"]} priority, completed percentage:{required_info[ty]["Completed"]:.2f}%')
-    required_info[ty]["Duration"] = str(timedelta(seconds=required_info[ty]["Duration"]))
+    required_info[ty]["Duration"] = timedelta(seconds=required_info[ty]["Duration"]).__str__()
     if required_info[ty]["Completed"] < 75:
         log.info(json.dumps(current_level[ty], indent=4))
     elif required_info[ty]["Completed"] == 100:
