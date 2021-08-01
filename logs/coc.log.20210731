@@ -1,0 +1,2678 @@
+2021-07-31 18:13:08,512 INFO : 67 : ##################################################
+2021-07-31 18:13:08,512 INFO : 68 : #                     Start                      #
+2021-07-31 18:13:08,513 INFO : 69 : ##################################################
+2021-07-31 18:14:55,529 INFO : 67 : ##################################################
+2021-07-31 18:14:55,529 INFO : 68 : #                     Start                      #
+2021-07-31 18:14:55,529 INFO : 69 : ##################################################
+2021-07-31 18:18:02,809 INFO : 67 : ##################################################
+2021-07-31 18:18:02,809 INFO : 68 : #                     Start                      #
+2021-07-31 18:18:02,809 INFO : 69 : ##################################################
+2021-07-31 18:18:02,812 INFO : 237 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:18:02,812 INFO : 237 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:18:02,812 INFO : 237 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:18:02,812 INFO : 237 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:18:02,812 INFO : 237 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:18:02,812 INFO : 237 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:18:02,812 INFO : 237 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:18:02,812 INFO : 237 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:18:02,812 INFO : 237 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:18:02,812 INFO : 237 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:18:02,812 INFO : 237 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:18:02,812 INFO : 237 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:18:02,812 INFO : 237 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:18:02,812 INFO : 237 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:18:02,812 INFO : 237 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:18:02,812 INFO : 237 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:18:02,812 INFO : 237 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:18:02,813 INFO : 237 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:18:02,813 INFO : 237 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:18:02,813 INFO : 237 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:18:02,813 INFO : 241 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:18:02,813 INFO : 237 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:18:02,813 INFO : 241 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:18:02,813 INFO : 237 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:18:02,813 INFO : 241 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:18:02,813 INFO : 237 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:18:02,813 INFO : 241 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:18:02,813 INFO : 237 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:18:02,813 INFO : 241 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,    "Max_level": 4
+}
+2021-07-31 18:18:02,813 INFO : 237 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:18:02,813 INFO : 241 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:18:02,813 INFO : 237 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:18:02,813 INFO : 241 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:18:02,813 INFO : 237 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:18:02,813 INFO : 241 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:18:02,813 INFO : 237 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:18:02,813 INFO : 241 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:18:02,814 INFO : 237 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:18:02,814 INFO : 241 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:18:02,814 INFO : 237 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:18:02,814 INFO : 241 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:18:02,816 INFO : 280 : Done
+2021-07-31 18:19:50,091 INFO : 67 : ##################################################
+2021-07-31 18:19:50,091 INFO : 68 : #                     Start                      #
+2021-07-31 18:19:50,091 INFO : 69 : ##################################################
+2021-07-31 18:19:50,094 INFO : 237 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:19:50,094 INFO : 237 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:19:50,094 INFO : 237 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:19:50,094 INFO : 237 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:19:50,094 INFO : 237 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:19:50,094 INFO : 237 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:19:50,094 INFO : 237 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:19:50,094 INFO : 237 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:19:50,094 INFO : 237 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:19:50,094 INFO : 237 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:19:50,094 INFO : 237 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:19:50,094 INFO : 237 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:19:50,094 INFO : 237 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:19:50,094 INFO : 237 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:19:50,094 INFO : 237 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:19:50,094 INFO : 237 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:19:50,094 INFO : 237 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:19:50,094 INFO : 237 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:19:50,094 INFO : 237 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:19:50,094 INFO : 237 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:19:50,094 INFO : 241 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:19:50,094 INFO : 237 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:19:50,094 INFO : 241 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:19:50,094 INFO : 237 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:19:50,095 INFO : 241 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:19:50,095 INFO : 237 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:19:50,095 INFO : 241 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:19:50,095 INFO : 237 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:19:50,095 INFO : 241 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:19:50,095 INFO : 237 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:19:50,095 INFO : 241 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:19:50,095 INFO : 237 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:19:50,095 INFO : 241 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:19:50,095 INFO : 237 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:19:50,095 INFO : 241 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:19:50,095 INFO : 237 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:19:50,095 INFO : 241 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:19:50,095 INFO : 237 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:19:50,095 INFO : 241 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:19:50,095 INFO : 237 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:19:50,095 INFO : 241 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:19:50,098 INFO : 280 : Done
+2021-07-31 18:22:18,603 INFO : 67 : ##################################################
+2021-07-31 18:22:18,603 INFO : 68 : #                     Start                      #
+2021-07-31 18:22:18,603 INFO : 69 : ##################################################
+2021-07-31 18:22:18,606 INFO : 239 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:22:18,606 INFO : 239 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:22:18,606 INFO : 239 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:22:18,606 INFO : 239 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:22:18,606 INFO : 239 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:22:18,606 INFO : 239 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:22:18,606 INFO : 239 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:22:18,606 INFO : 239 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:22:18,606 INFO : 239 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:22:18,606 INFO : 239 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:22:18,606 INFO : 239 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:22:18,606 INFO : 239 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:22:18,606 INFO : 239 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:22:18,606 INFO : 239 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:22:18,606 INFO : 239 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:22:18,606 INFO : 239 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:22:18,606 INFO : 239 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:22:18,606 INFO : 239 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:22:18,607 INFO : 239 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:22:18,607 INFO : 239 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:22:18,607 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:22:18,607 INFO : 239 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:22:18,607 INFO : 243 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:22:18,607 INFO : 239 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:22:18,607 INFO : 243 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:22:18,607 INFO : 239 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:22:18,607 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:22:18,607 INFO : 239 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:22:18,607 INFO : 243 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:22:18,607 INFO : 239 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:22:18,607 INFO : 243 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:22:18,607 INFO : 239 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:22:18,607 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:22:18,607 INFO : 239 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:22:18,607 INFO : 243 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:22:18,607 INFO : 239 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:22:18,607 INFO : 243 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:22:18,607 INFO : 239 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:22:18,608 INFO : 243 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:22:18,608 INFO : 239 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:22:18,608 INFO : 243 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:22:18,610 INFO : 282 : Done
+2021-07-31 18:22:27,184 INFO : 67 : ##################################################
+2021-07-31 18:22:27,184 INFO : 68 : #                     Start                      #
+2021-07-31 18:22:27,184 INFO : 69 : ##################################################
+2021-07-31 18:22:27,187 INFO : 238 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:22:27,187 INFO : 238 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:22:27,187 INFO : 238 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:22:27,187 INFO : 238 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:22:27,188 INFO : 238 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:22:27,188 INFO : 238 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:22:27,188 INFO : 238 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:22:27,188 INFO : 238 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:22:27,188 INFO : 238 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:22:27,188 INFO : 238 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:22:27,188 INFO : 238 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:22:27,188 INFO : 238 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:22:27,188 INFO : 238 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:22:27,188 INFO : 238 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:22:27,188 INFO : 238 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:22:27,188 INFO : 238 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:22:27,188 INFO : 238 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:22:27,188 INFO : 238 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:22:27,188 INFO : 238 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:22:27,188 INFO : 238 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:22:27,188 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:22:27,188 INFO : 238 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:22:27,188 INFO : 242 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:22:27,188 INFO : 238 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:22:27,188 INFO : 242 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:22:27,188 INFO : 238 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:22:27,189 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:22:27,189 INFO : 238 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:22:27,189 INFO : 242 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:22:27,189 INFO : 238 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:22:27,189 INFO : 242 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:22:27,189 INFO : 238 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:22:27,189 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:22:27,189 INFO : 238 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:22:27,189 INFO : 242 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:22:27,189 INFO : 238 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:22:27,189 INFO : 242 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:22:27,189 INFO : 238 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:22:27,189 INFO : 242 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:22:27,189 INFO : 238 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:22:27,189 INFO : 242 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:22:27,192 INFO : 281 : Done
+2021-07-31 18:22:33,790 INFO : 67 : ##################################################
+2021-07-31 18:22:33,790 INFO : 68 : #                     Start                      #
+2021-07-31 18:22:33,790 INFO : 69 : ##################################################
+2021-07-31 18:22:33,793 INFO : 238 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:22:33,793 INFO : 238 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:22:33,793 INFO : 238 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:22:33,793 INFO : 238 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:22:33,793 INFO : 238 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:22:33,793 INFO : 238 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:22:33,793 INFO : 238 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:22:33,793 INFO : 238 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:22:33,793 INFO : 238 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:22:33,793 INFO : 238 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:22:33,793 INFO : 238 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:22:33,793 INFO : 238 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:22:33,793 INFO : 238 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:22:33,793 INFO : 238 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:22:33,793 INFO : 238 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:22:33,793 INFO : 238 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:22:33,793 INFO : 238 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:22:33,793 INFO : 238 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:22:33,793 INFO : 238 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:22:33,793 INFO : 238 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:22:33,794 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:22:33,794 INFO : 238 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:22:33,794 INFO : 242 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:22:33,794 INFO : 238 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:22:33,794 INFO : 242 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:22:33,794 INFO : 238 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:22:33,794 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:22:33,794 INFO : 238 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:22:33,794 INFO : 242 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:22:33,794 INFO : 238 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:22:33,794 INFO : 242 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:22:33,794 INFO : 238 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:22:33,794 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:22:33,794 INFO : 238 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:22:33,794 INFO : 242 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:22:33,794 INFO : 238 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:22:33,794 INFO : 242 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:22:33,794 INFO : 238 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:22:33,794 INFO : 242 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:22:33,794 INFO : 238 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:22:33,794 INFO : 242 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:22:33,797 INFO : 281 : Done
+2021-07-31 18:22:39,958 INFO : 67 : ##################################################
+2021-07-31 18:22:39,958 INFO : 68 : #                     Start                      #
+2021-07-31 18:22:39,958 INFO : 69 : ##################################################
+2021-07-31 18:22:39,960 INFO : 238 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:22:39,961 INFO : 238 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:22:39,961 INFO : 238 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:22:39,961 INFO : 238 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:22:39,961 INFO : 238 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:22:39,961 INFO : 238 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:22:39,961 INFO : 238 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:22:39,961 INFO : 238 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:22:39,961 INFO : 238 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:22:39,961 INFO : 238 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:22:39,961 INFO : 238 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:22:39,961 INFO : 238 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:22:39,961 INFO : 238 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:22:39,961 INFO : 238 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:22:39,961 INFO : 238 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:22:39,961 INFO : 238 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:22:39,961 INFO : 238 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:22:39,961 INFO : 238 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:22:39,961 INFO : 238 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:22:39,961 INFO : 238 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:22:39,961 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:22:39,961 INFO : 238 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:22:39,961 INFO : 242 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:22:39,961 INFO : 238 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:22:39,962 INFO : 242 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:22:39,962 INFO : 238 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:22:39,962 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:22:39,962 INFO : 238 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:22:39,962 INFO : 242 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:22:39,962 INFO : 238 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:22:39,962 INFO : 242 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:22:39,962 INFO : 238 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:22:39,962 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:22:39,962 INFO : 238 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:22:39,962 INFO : 242 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:22:39,962 INFO : 238 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:22:39,962 INFO : 242 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:22:39,962 INFO : 238 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:22:39,962 INFO : 242 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:22:39,962 INFO : 238 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:22:39,962 INFO : 242 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:22:39,965 INFO : 281 : Done
+2021-07-31 18:22:58,502 INFO : 67 : ##################################################
+2021-07-31 18:22:58,502 INFO : 68 : #                     Start                      #
+2021-07-31 18:22:58,502 INFO : 69 : ##################################################
+2021-07-31 18:22:58,505 INFO : 238 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:22:58,505 INFO : 238 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:22:58,505 INFO : 238 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:22:58,505 INFO : 238 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:22:58,505 INFO : 238 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:22:58,505 INFO : 238 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:22:58,505 INFO : 238 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:22:58,505 INFO : 238 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:22:58,505 INFO : 238 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:22:58,505 INFO : 238 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:22:58,505 INFO : 238 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:22:58,505 INFO : 238 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:22:58,505 INFO : 238 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:22:58,505 INFO : 238 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:22:58,505 INFO : 238 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:22:58,505 INFO : 238 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:22:58,505 INFO : 238 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:22:58,506 INFO : 238 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:22:58,506 INFO : 238 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:22:58,506 INFO : 238 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:22:58,506 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:22:58,506 INFO : 238 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:22:58,506 INFO : 242 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:22:58,506 INFO : 238 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:22:58,506 INFO : 242 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:22:58,506 INFO : 238 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:22:58,506 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:22:58,506 INFO : 238 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:22:58,506 INFO : 242 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:22:58,506 INFO : 238 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:22:58,506 INFO : 242 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:22:58,506 INFO : 238 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:22:58,506 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:22:58,506 INFO : 238 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:22:58,506 INFO : 242 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:22:58,506 INFO : 238 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:22:58,506 INFO : 242 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:22:58,507 INFO : 238 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:22:58,507 INFO : 242 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:22:58,507 INFO : 238 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:22:58,507 INFO : 242 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:22:58,509 INFO : 281 : Done
+2021-07-31 18:23:10,559 INFO : 67 : ##################################################
+2021-07-31 18:23:10,559 INFO : 68 : #                     Start                      #
+2021-07-31 18:23:10,559 INFO : 69 : ##################################################
+2021-07-31 18:23:10,562 INFO : 238 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:23:10,562 INFO : 238 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:23:10,562 INFO : 238 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:23:10,562 INFO : 238 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:23:10,562 INFO : 238 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:23:10,562 INFO : 238 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:23:10,562 INFO : 238 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:23:10,562 INFO : 238 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:23:10,562 INFO : 238 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:23:10,562 INFO : 238 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:23:10,562 INFO : 238 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:23:10,562 INFO : 238 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:23:10,562 INFO : 238 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:23:10,562 INFO : 238 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:23:10,562 INFO : 238 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:23:10,562 INFO : 238 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:23:10,562 INFO : 238 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:23:10,562 INFO : 238 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:23:10,562 INFO : 238 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:23:10,563 INFO : 238 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:23:10,563 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:23:10,563 INFO : 238 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:23:10,563 INFO : 242 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:23:10,563 INFO : 238 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:23:10,563 INFO : 242 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:23:10,563 INFO : 238 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:23:10,563 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:23:10,563 INFO : 238 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:23:10,563 INFO : 242 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:23:10,563 INFO : 238 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:23:10,563 INFO : 242 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:23:10,563 INFO : 238 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:23:10,563 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:23:10,563 INFO : 238 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:23:10,563 INFO : 242 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:23:10,563 INFO : 238 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:23:10,563 INFO : 242 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:23:10,563 INFO : 238 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:23:10,563 INFO : 242 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:23:10,564 INFO : 238 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:23:10,564 INFO : 242 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:23:10,566 INFO : 281 : Done
+2021-07-31 18:23:59,134 INFO : 67 : ##################################################
+2021-07-31 18:23:59,134 INFO : 68 : #                     Start                      #
+2021-07-31 18:23:59,134 INFO : 69 : ##################################################
+2021-07-31 18:23:59,137 INFO : 238 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:23:59,137 INFO : 238 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:23:59,137 INFO : 238 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:23:59,137 INFO : 238 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:23:59,137 INFO : 238 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:23:59,137 INFO : 238 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:23:59,137 INFO : 238 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:23:59,137 INFO : 238 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:23:59,137 INFO : 238 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:23:59,137 INFO : 238 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:23:59,137 INFO : 238 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:23:59,137 INFO : 238 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:23:59,137 INFO : 238 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:23:59,137 INFO : 238 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:23:59,137 INFO : 238 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:23:59,138 INFO : 238 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:23:59,138 INFO : 238 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:23:59,138 INFO : 238 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:23:59,138 INFO : 238 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:23:59,138 INFO : 238 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:23:59,138 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:23:59,138 INFO : 238 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:23:59,138 INFO : 242 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:23:59,138 INFO : 238 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:23:59,138 INFO : 242 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:23:59,138 INFO : 238 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:23:59,138 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:23:59,138 INFO : 238 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:23:59,138 INFO : 242 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:23:59,138 INFO : 238 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:23:59,138 INFO : 242 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:23:59,138 INFO : 238 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:23:59,138 INFO : 242 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:23:59,138 INFO : 238 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:23:59,138 INFO : 242 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:23:59,139 INFO : 238 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:23:59,139 INFO : 242 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:23:59,139 INFO : 238 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:23:59,139 INFO : 242 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:23:59,139 INFO : 238 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:23:59,139 INFO : 242 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:23:59,141 INFO : 281 : Done
+2021-07-31 18:24:11,729 INFO : 67 : ##################################################
+2021-07-31 18:24:11,730 INFO : 68 : #                     Start                      #
+2021-07-31 18:24:11,730 INFO : 69 : ##################################################
+2021-07-31 18:24:11,732 INFO : 239 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:24:11,732 INFO : 239 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:24:11,732 INFO : 239 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:24:11,733 INFO : 239 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:24:11,733 INFO : 239 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:24:11,733 INFO : 239 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:24:11,733 INFO : 239 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:24:11,733 INFO : 239 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:24:11,733 INFO : 239 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:24:11,733 INFO : 239 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:24:11,733 INFO : 239 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:24:11,733 INFO : 239 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:24:11,733 INFO : 239 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:24:11,733 INFO : 239 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:24:11,733 INFO : 239 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:24:11,733 INFO : 239 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:24:11,733 INFO : 239 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:24:11,733 INFO : 239 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:24:11,733 INFO : 239 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:24:11,733 INFO : 239 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:24:11,733 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:24:11,733 INFO : 239 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:24:11,733 INFO : 243 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:24:11,733 INFO : 239 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:24:11,733 INFO : 243 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:24:11,733 INFO : 239 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:24:11,734 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:24:11,734 INFO : 239 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:24:11,734 INFO : 243 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:24:11,734 INFO : 239 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:24:11,734 INFO : 243 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:24:11,734 INFO : 239 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:24:11,734 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:24:11,734 INFO : 239 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:24:11,734 INFO : 243 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:24:11,734 INFO : 239 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:24:11,734 INFO : 243 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:24:11,734 INFO : 239 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:24:11,734 INFO : 243 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:24:11,734 INFO : 239 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:24:11,734 INFO : 243 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:24:11,737 INFO : 282 : Done
+2021-07-31 18:26:53,024 INFO : 67 : ##################################################
+2021-07-31 18:26:53,024 INFO : 68 : #                     Start                      #
+2021-07-31 18:26:53,024 INFO : 69 : ##################################################
+2021-07-31 18:27:58,071 INFO : 67 : ##################################################
+2021-07-31 18:27:58,071 INFO : 68 : #                     Start                      #
+2021-07-31 18:27:58,071 INFO : 69 : ##################################################
+2021-07-31 18:35:41,598 INFO : 67 : ##################################################
+2021-07-31 18:35:41,599 INFO : 68 : #                     Start                      #
+2021-07-31 18:35:41,599 INFO : 69 : ##################################################
+2021-07-31 18:35:41,601 INFO : 239 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:35:41,601 INFO : 239 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:35:41,601 INFO : 239 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:35:41,601 INFO : 239 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:35:41,602 INFO : 239 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:35:41,602 INFO : 239 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:35:41,602 INFO : 239 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:35:41,602 INFO : 239 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:35:41,602 INFO : 239 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:35:41,602 INFO : 239 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:35:41,602 INFO : 239 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:35:41,602 INFO : 239 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:35:41,602 INFO : 239 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:35:41,602 INFO : 239 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:35:41,602 INFO : 239 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:35:41,602 INFO : 239 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:35:41,602 INFO : 239 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:35:41,602 INFO : 239 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:35:41,602 INFO : 239 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:35:41,602 INFO : 239 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:35:41,602 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:35:41,602 INFO : 239 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:35:41,602 INFO : 243 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:35:41,602 INFO : 239 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:35:41,602 INFO : 243 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:35:41,602 INFO : 239 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:35:41,602 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:35:41,602 INFO : 239 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:35:41,603 INFO : 243 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:35:41,603 INFO : 239 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:35:41,603 INFO : 243 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:35:41,603 INFO : 239 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:35:41,603 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:35:41,603 INFO : 239 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:35:41,603 INFO : 243 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:35:41,603 INFO : 239 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:35:41,603 INFO : 243 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:35:41,603 INFO : 239 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:35:41,603 INFO : 243 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:35:41,603 INFO : 239 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:35:41,603 INFO : 243 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:35:41,606 INFO : 282 : Done
+2021-07-31 18:36:07,032 INFO : 67 : ##################################################
+2021-07-31 18:36:07,032 INFO : 68 : #                     Start                      #
+2021-07-31 18:36:07,032 INFO : 69 : ##################################################
+2021-07-31 18:36:07,035 INFO : 239 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:36:07,035 INFO : 239 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:36:07,035 INFO : 239 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:36:07,035 INFO : 239 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:36:07,035 INFO : 239 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:36:07,035 INFO : 239 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:36:07,035 INFO : 239 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:36:07,035 INFO : 239 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:36:07,035 INFO : 239 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:36:07,035 INFO : 239 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:36:07,036 INFO : 239 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:36:07,036 INFO : 239 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:36:07,036 INFO : 239 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:36:07,036 INFO : 239 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:36:07,036 INFO : 239 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:36:07,036 INFO : 239 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:36:07,036 INFO : 239 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:36:07,036 INFO : 239 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:36:07,036 INFO : 239 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:36:07,036 INFO : 239 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:36:07,036 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:36:07,036 INFO : 239 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:36:07,036 INFO : 243 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:36:07,036 INFO : 239 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:36:07,036 INFO : 243 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:36:07,036 INFO : 239 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:36:07,036 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:36:07,036 INFO : 239 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:36:07,036 INFO : 243 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:36:07,036 INFO : 239 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:36:07,036 INFO : 243 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:36:07,036 INFO : 239 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:36:07,037 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:36:07,037 INFO : 239 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:36:07,037 INFO : 243 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:36:07,037 INFO : 239 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:36:07,037 INFO : 243 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:36:07,037 INFO : 239 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:36:07,037 INFO : 243 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:36:07,037 INFO : 239 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:36:07,037 INFO : 243 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:36:07,039 INFO : 282 : Done
+2021-07-31 18:36:15,003 INFO : 67 : ##################################################
+2021-07-31 18:36:15,004 INFO : 68 : #                     Start                      #
+2021-07-31 18:36:15,004 INFO : 69 : ##################################################
+2021-07-31 18:37:15,365 INFO : 67 : ##################################################
+2021-07-31 18:37:15,365 INFO : 68 : #                     Start                      #
+2021-07-31 18:37:15,365 INFO : 69 : ##################################################
+2021-07-31 18:37:15,368 INFO : 239 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:37:15,368 INFO : 239 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:37:15,368 INFO : 239 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:37:15,368 INFO : 239 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:37:15,368 INFO : 239 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:37:15,368 INFO : 239 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:37:15,368 INFO : 239 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:37:15,368 INFO : 239 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:37:15,368 INFO : 239 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:37:15,368 INFO : 239 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:37:15,368 INFO : 239 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:37:15,369 INFO : 239 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:37:15,369 INFO : 239 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:37:15,369 INFO : 239 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:37:15,369 INFO : 239 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:37:15,369 INFO : 239 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:37:15,369 INFO : 239 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:37:15,369 INFO : 239 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:37:15,369 INFO : 239 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:37:15,369 INFO : 239 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:37:15,369 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:37:15,369 INFO : 239 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:37:15,369 INFO : 243 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:37:15,369 INFO : 239 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:37:15,369 INFO : 243 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:37:15,369 INFO : 239 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:37:15,369 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:37:15,369 INFO : 239 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:37:15,369 INFO : 243 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:37:15,369 INFO : 239 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:37:15,369 INFO : 243 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:37:15,369 INFO : 239 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:37:15,369 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:37:15,370 INFO : 239 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:37:15,370 INFO : 243 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:37:15,370 INFO : 239 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:37:15,370 INFO : 243 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:37:15,370 INFO : 239 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:37:15,370 INFO : 243 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:37:15,370 INFO : 239 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:37:15,370 INFO : 243 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:37:15,372 INFO : 282 : Done
+2021-07-31 18:38:30,351 INFO : 67 : ##################################################
+2021-07-31 18:38:30,351 INFO : 68 : #                     Start                      #
+2021-07-31 18:38:30,351 INFO : 69 : ##################################################
+2021-07-31 18:38:30,354 INFO : 239 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 18:38:30,354 INFO : 239 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 18:38:30,354 INFO : 239 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 18:38:30,354 INFO : 239 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 18:38:30,354 INFO : 239 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 18:38:30,355 INFO : 239 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 18:38:30,355 INFO : 239 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 18:38:30,355 INFO : 239 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 18:38:30,355 INFO : 239 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 18:38:30,355 INFO : 239 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 18:38:30,355 INFO : 239 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 18:38:30,355 INFO : 239 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 18:38:30,355 INFO : 239 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 18:38:30,355 INFO : 239 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 18:38:30,355 INFO : 239 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 18:38:30,355 INFO : 239 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 18:38:30,355 INFO : 239 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 18:38:30,355 INFO : 239 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 18:38:30,355 INFO : 239 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 18:38:30,355 INFO : 239 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 18:38:30,355 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 18:38:30,355 INFO : 239 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 18:38:30,355 INFO : 243 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 18:38:30,355 INFO : 239 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 18:38:30,355 INFO : 243 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 18:38:30,355 INFO : 239 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 18:38:30,355 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 18:38:30,355 INFO : 239 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 18:38:30,355 INFO : 243 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 18:38:30,355 INFO : 239 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 18:38:30,356 INFO : 243 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 18:38:30,356 INFO : 239 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 18:38:30,356 INFO : 243 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 18:38:30,356 INFO : 239 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 18:38:30,356 INFO : 243 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 18:38:30,356 INFO : 239 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 18:38:30,356 INFO : 243 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 18:38:30,356 INFO : 239 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 18:38:30,356 INFO : 243 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 18:38:30,356 INFO : 239 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 18:38:30,356 INFO : 243 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 18:38:30,358 INFO : 282 : Done
+2021-07-31 18:38:38,832 INFO : 67 : ##################################################
+2021-07-31 18:38:38,832 INFO : 68 : #                     Start                      #
+2021-07-31 18:38:38,832 INFO : 69 : ##################################################
+2021-07-31 18:39:40,326 INFO : 67 : ##################################################
+2021-07-31 18:39:40,326 INFO : 68 : #                     Start                      #
+2021-07-31 18:39:40,326 INFO : 69 : ##################################################
+2021-07-31 18:51:44,295 INFO : 67 : ##################################################
+2021-07-31 18:51:44,296 INFO : 68 : #                     Start                      #
+2021-07-31 18:51:44,296 INFO : 69 : ##################################################
+2021-07-31 18:53:26,322 INFO : 67 : ##################################################
+2021-07-31 18:53:26,323 INFO : 68 : #                     Start                      #
+2021-07-31 18:53:26,323 INFO : 69 : ##################################################
+2021-07-31 18:55:14,065 INFO : 67 : ##################################################
+2021-07-31 18:55:14,065 INFO : 68 : #                     Start                      #
+2021-07-31 18:55:14,065 INFO : 69 : ##################################################
+2021-07-31 18:55:38,207 INFO : 67 : ##################################################
+2021-07-31 18:55:38,207 INFO : 68 : #                     Start                      #
+2021-07-31 18:55:38,208 INFO : 69 : ##################################################
+2021-07-31 18:56:14,141 INFO : 67 : ##################################################
+2021-07-31 18:56:14,141 INFO : 68 : #                     Start                      #
+2021-07-31 18:56:14,141 INFO : 69 : ##################################################
+2021-07-31 18:56:31,978 INFO : 67 : ##################################################
+2021-07-31 18:56:31,978 INFO : 68 : #                     Start                      #
+2021-07-31 18:56:31,978 INFO : 69 : ##################################################
+2021-07-31 18:57:58,485 INFO : 67 : ##################################################
+2021-07-31 18:57:58,486 INFO : 68 : #                     Start                      #
+2021-07-31 18:57:58,486 INFO : 69 : ##################################################
+2021-07-31 18:58:28,061 INFO : 67 : ##################################################
+2021-07-31 18:58:28,061 INFO : 68 : #                     Start                      #
+2021-07-31 18:58:28,061 INFO : 69 : ##################################################
+2021-07-31 18:59:40,735 INFO : 67 : ##################################################
+2021-07-31 18:59:40,735 INFO : 68 : #                     Start                      #
+2021-07-31 18:59:40,735 INFO : 69 : ##################################################
+2021-07-31 19:01:10,219 INFO : 257 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 19:01:10,219 INFO : 257 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 19:01:10,219 INFO : 257 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 19:01:10,219 INFO : 257 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 19:01:10,219 INFO : 257 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 19:01:10,219 INFO : 257 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 19:01:10,219 INFO : 257 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 19:01:10,219 INFO : 257 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 19:01:10,219 INFO : 257 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 19:01:10,219 INFO : 257 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 19:01:10,219 INFO : 257 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 19:01:10,219 INFO : 257 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 19:01:10,219 INFO : 257 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 19:01:10,219 INFO : 257 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 19:01:10,219 INFO : 257 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 19:01:10,219 INFO : 257 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 19:01:10,219 INFO : 257 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 19:01:10,220 INFO : 257 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 19:01:10,220 INFO : 257 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 19:01:10,220 INFO : 257 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 19:01:10,220 INFO : 261 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 19:01:10,220 INFO : 257 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 19:01:10,220 INFO : 261 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 19:01:10,220 INFO : 257 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 19:01:10,220 INFO : 261 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 19:01:10,220 INFO : 257 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 19:01:10,220 INFO : 261 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 19:01:10,220 INFO : 257 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 19:01:10,220 INFO : 261 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 19:01:10,220 INFO : 257 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 19:01:10,220 INFO : 261 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 19:01:10,220 INFO : 257 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 19:01:10,221 INFO : 261 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 19:01:10,221 INFO : 257 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 19:01:10,221 INFO : 261 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 19:01:10,221 INFO : 257 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 19:01:10,221 INFO : 261 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 19:01:10,221 INFO : 257 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 19:01:10,221 INFO : 261 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 19:01:10,221 INFO : 257 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 19:01:10,221 INFO : 261 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 19:01:10,224 INFO : 300 : Done
+2021-07-31 19:03:01,233 INFO : 67 : ##################################################
+2021-07-31 19:03:01,233 INFO : 68 : #                     Start                      #
+2021-07-31 19:03:01,233 INFO : 69 : ##################################################
+2021-07-31 19:03:01,236 INFO : 257 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 19:03:01,236 INFO : 257 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 19:03:01,236 INFO : 257 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 19:03:01,236 INFO : 257 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 19:03:01,236 INFO : 257 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 19:03:01,236 INFO : 257 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 19:03:01,236 INFO : 257 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 19:03:01,236 INFO : 257 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 19:03:01,236 INFO : 257 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 19:03:01,236 INFO : 257 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 19:03:01,236 INFO : 257 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 19:03:01,236 INFO : 257 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 19:03:01,236 INFO : 257 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 19:03:01,236 INFO : 257 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 19:03:01,236 INFO : 257 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 19:03:01,236 INFO : 257 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 19:03:01,236 INFO : 257 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 19:03:01,237 INFO : 257 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 19:03:01,237 INFO : 257 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 19:03:01,237 INFO : 257 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 19:03:01,237 INFO : 261 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 19:03:01,237 INFO : 257 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 19:03:01,237 INFO : 261 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 19:03:01,237 INFO : 257 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 19:03:01,237 INFO : 261 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 19:03:01,237 INFO : 257 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 19:03:01,237 INFO : 261 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 19:03:01,237 INFO : 257 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 19:03:01,237 INFO : 261 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 19:03:01,237 INFO : 257 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 19:03:01,237 INFO : 261 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 19:03:01,237 INFO : 257 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 19:03:01,237 INFO : 261 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 19:03:01,237 INFO : 257 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 19:03:01,237 INFO : 261 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 19:03:01,237 INFO : 257 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 19:03:01,237 INFO : 261 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 19:03:01,237 INFO : 257 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 19:03:01,238 INFO : 261 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 19:03:01,238 INFO : 257 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 19:03:01,238 INFO : 261 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 19:03:01,240 INFO : 300 : Done
+2021-07-31 19:05:42,174 INFO : 67 : ##################################################
+2021-07-31 19:05:42,174 INFO : 68 : #                     Start                      #
+2021-07-31 19:05:42,174 INFO : 69 : ##################################################
+2021-07-31 19:08:18,917 INFO : 67 : ##################################################
+2021-07-31 19:08:18,917 INFO : 68 : #                     Start                      #
+2021-07-31 19:08:18,917 INFO : 69 : ##################################################
+2021-07-31 19:08:46,035 INFO : 67 : ##################################################
+2021-07-31 19:08:46,035 INFO : 68 : #                     Start                      #
+2021-07-31 19:08:46,035 INFO : 69 : ##################################################
+2021-07-31 19:08:46,039 INFO : 257 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 19:08:46,039 INFO : 257 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 19:08:46,039 INFO : 257 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 19:08:46,039 INFO : 257 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 19:08:46,039 INFO : 257 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 19:08:46,039 INFO : 257 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 19:08:46,039 INFO : 257 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 19:08:46,040 INFO : 257 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 19:08:46,040 INFO : 257 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 19:08:46,040 INFO : 257 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 19:08:46,040 INFO : 257 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 19:08:46,040 INFO : 257 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 19:08:46,040 INFO : 257 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 19:08:46,040 INFO : 257 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 19:08:46,040 INFO : 257 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 19:08:46,040 INFO : 257 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 19:08:46,040 INFO : 257 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 19:08:46,040 INFO : 257 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 19:08:46,040 INFO : 257 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 19:08:46,040 INFO : 257 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 19:08:46,040 INFO : 261 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 19:08:46,040 INFO : 257 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 19:08:46,040 INFO : 261 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 19:08:46,040 INFO : 257 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 19:08:46,040 INFO : 261 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 19:08:46,040 INFO : 257 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 19:08:46,041 INFO : 261 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 19:08:46,041 INFO : 257 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 19:08:46,041 INFO : 261 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 19:08:46,041 INFO : 257 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 19:08:46,041 INFO : 261 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 19:08:46,041 INFO : 257 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 19:08:46,041 INFO : 261 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 19:08:46,041 INFO : 257 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 19:08:46,041 INFO : 261 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 19:08:46,041 INFO : 257 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 19:08:46,041 INFO : 261 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 19:08:46,041 INFO : 257 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 19:08:46,041 INFO : 261 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 19:08:46,041 INFO : 257 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 19:08:46,041 INFO : 261 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 19:08:46,044 INFO : 300 : Done
+2021-07-31 19:08:53,719 INFO : 67 : ##################################################
+2021-07-31 19:08:53,720 INFO : 68 : #                     Start                      #
+2021-07-31 19:08:53,720 INFO : 69 : ##################################################
+2021-07-31 19:14:09,524 INFO : 73 : ##################################################
+2021-07-31 19:14:09,524 INFO : 74 : #                     Start                      #
+2021-07-31 19:14:09,524 INFO : 75 : ##################################################
+2021-07-31 19:14:09,527 INFO : 263 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 19:14:09,527 INFO : 263 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 19:14:09,527 INFO : 263 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 19:14:09,527 INFO : 263 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 19:14:09,527 INFO : 263 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 19:14:09,528 INFO : 263 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 19:14:09,528 INFO : 263 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 19:14:09,528 INFO : 263 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 19:14:09,528 INFO : 263 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 19:14:09,528 INFO : 263 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 19:14:09,528 INFO : 263 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 19:14:09,528 INFO : 263 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 19:14:09,528 INFO : 263 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 19:14:09,528 INFO : 263 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 19:14:09,528 INFO : 263 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 19:14:09,528 INFO : 263 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 19:14:09,528 INFO : 263 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 19:14:09,528 INFO : 263 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 19:14:09,528 INFO : 263 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 19:14:09,528 INFO : 263 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 19:14:09,528 INFO : 267 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 19:14:09,528 INFO : 263 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 19:14:09,528 INFO : 267 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 19:14:09,528 INFO : 263 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 19:14:09,528 INFO : 267 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 19:14:09,528 INFO : 263 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 19:14:09,528 INFO : 267 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 19:14:09,528 INFO : 263 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 19:14:09,528 INFO : 267 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 19:14:09,529 INFO : 263 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 19:14:09,529 INFO : 267 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 19:14:09,529 INFO : 263 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 19:14:09,529 INFO : 267 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 19:14:09,529 INFO : 263 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 19:14:09,529 INFO : 267 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 19:14:09,529 INFO : 263 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 19:14:09,529 INFO : 267 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 19:14:09,529 INFO : 263 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 19:14:09,529 INFO : 267 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 19:14:09,529 INFO : 263 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 19:14:09,529 INFO : 267 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 19:14:09,531 INFO : 306 : Done
+2021-07-31 19:14:18,268 INFO : 73 : ##################################################
+2021-07-31 19:14:18,268 INFO : 74 : #                     Start                      #
+2021-07-31 19:14:18,268 INFO : 75 : ##################################################
+2021-07-31 19:14:22,745 INFO : 263 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 19:14:22,745 INFO : 263 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 19:14:22,745 INFO : 263 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 19:14:22,745 INFO : 263 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 19:14:22,745 INFO : 263 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 19:14:22,746 INFO : 263 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 19:14:22,746 INFO : 263 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 19:14:22,746 INFO : 263 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 19:14:22,746 INFO : 263 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 19:14:22,746 INFO : 263 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 19:14:22,746 INFO : 263 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 19:14:22,746 INFO : 263 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 19:14:22,746 INFO : 263 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 19:14:22,746 INFO : 263 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 19:14:22,746 INFO : 263 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 19:14:22,746 INFO : 263 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 19:14:22,746 INFO : 263 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 19:14:22,746 INFO : 263 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 19:14:22,746 INFO : 263 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 19:14:22,746 INFO : 263 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 19:14:22,746 INFO : 267 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 19:14:22,746 INFO : 263 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 19:14:22,746 INFO : 267 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 19:14:22,747 INFO : 263 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 19:14:22,747 INFO : 267 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 19:14:22,747 INFO : 263 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 19:14:22,747 INFO : 267 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 19:14:22,747 INFO : 263 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 19:14:22,747 INFO : 267 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 19:14:22,747 INFO : 263 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 19:14:22,747 INFO : 267 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 19:14:22,747 INFO : 263 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 19:14:22,747 INFO : 267 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 19:14:22,747 INFO : 263 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 19:14:22,747 INFO : 267 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 19:14:22,747 INFO : 263 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 19:14:22,747 INFO : 267 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 19:14:22,747 INFO : 263 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 19:14:22,747 INFO : 267 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 19:14:22,748 INFO : 263 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 19:14:22,748 INFO : 267 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 19:14:22,750 INFO : 306 : Done
+2021-07-31 19:14:37,929 INFO : 73 : ##################################################
+2021-07-31 19:14:37,930 INFO : 74 : #                     Start                      #
+2021-07-31 19:14:37,930 INFO : 75 : ##################################################
+2021-07-31 19:15:06,460 INFO : 73 : ##################################################
+2021-07-31 19:15:06,460 INFO : 74 : #                     Start                      #
+2021-07-31 19:15:06,460 INFO : 75 : ##################################################
+2021-07-31 19:15:54,647 INFO : 73 : ##################################################
+2021-07-31 19:15:54,647 INFO : 74 : #                     Start                      #
+2021-07-31 19:15:54,647 INFO : 75 : ##################################################
+2021-07-31 19:17:20,687 INFO : 73 : ##################################################
+2021-07-31 19:17:20,687 INFO : 74 : #                     Start                      #
+2021-07-31 19:17:20,687 INFO : 75 : ##################################################
+2021-07-31 19:17:50,044 INFO : 77 : ##################################################
+2021-07-31 19:17:50,044 INFO : 78 : #                     Start                      #
+2021-07-31 19:17:50,044 INFO : 79 : ##################################################
+2021-07-31 19:18:32,848 INFO : 77 : ##################################################
+2021-07-31 19:18:32,848 INFO : 78 : #                     Start                      #
+2021-07-31 19:18:32,848 INFO : 79 : ##################################################
+2021-07-31 19:21:36,557 INFO : 77 : ##################################################
+2021-07-31 19:21:36,557 INFO : 78 : #                     Start                      #
+2021-07-31 19:21:36,557 INFO : 79 : ##################################################
+2021-07-31 19:21:36,561 INFO : 267 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 19:21:36,561 INFO : 267 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 19:21:36,561 INFO : 267 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 19:21:36,561 INFO : 267 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 19:21:36,561 INFO : 267 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 19:21:36,561 INFO : 267 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 19:21:36,561 INFO : 267 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 19:21:36,561 INFO : 267 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 19:21:36,561 INFO : 267 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 19:21:36,561 INFO : 267 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 19:21:36,561 INFO : 267 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 19:21:36,561 INFO : 267 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 19:21:36,561 INFO : 267 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 19:21:36,561 INFO : 267 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 19:21:36,561 INFO : 267 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 19:21:36,561 INFO : 267 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 19:21:36,561 INFO : 267 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 19:21:36,561 INFO : 267 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 19:21:36,561 INFO : 267 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 19:21:36,561 INFO : 267 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 19:21:36,561 INFO : 271 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 19:21:36,561 INFO : 267 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 19:21:36,562 INFO : 271 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 19:21:36,562 INFO : 267 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 19:21:36,562 INFO : 271 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 19:21:36,562 INFO : 267 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 19:21:36,562 INFO : 271 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 19:21:36,562 INFO : 267 : Bomb Tower with 2.07 priority, completed percentage:62.50%
+2021-07-31 19:21:36,562 INFO : 271 : {
+    "Levels": {
+        "2": 1,
+        "3": 1
+    },
+    "priority": 2.07,
+    "Max_level": 4
+}
+2021-07-31 19:21:36,562 INFO : 267 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 19:21:36,562 INFO : 271 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 19:21:36,562 INFO : 267 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 19:21:36,562 INFO : 271 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 19:21:36,562 INFO : 267 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 19:21:36,562 INFO : 271 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 19:21:36,562 INFO : 267 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 19:21:36,563 INFO : 271 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 19:21:36,563 INFO : 267 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 19:21:36,563 INFO : 271 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 19:21:36,563 INFO : 267 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 19:21:36,563 INFO : 271 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 19:21:36,605 INFO : 310 : Done
+2021-07-31 19:21:55,390 INFO : 76 : ##################################################
+2021-07-31 19:21:55,390 INFO : 77 : #                     Start                      #
+2021-07-31 19:21:55,390 INFO : 78 : ##################################################
+2021-07-31 19:22:11,975 INFO : 266 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 19:22:11,975 INFO : 266 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 19:22:11,975 INFO : 266 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 19:22:11,975 INFO : 266 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 19:22:11,975 INFO : 266 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 19:22:11,975 INFO : 266 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 19:22:11,975 INFO : 266 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 19:22:11,975 INFO : 266 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 19:22:11,975 INFO : 266 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 19:22:11,976 INFO : 266 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 19:22:11,976 INFO : 266 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 19:22:11,976 INFO : 266 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 19:22:11,976 INFO : 266 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 19:22:11,976 INFO : 266 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 19:22:11,976 INFO : 266 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 19:22:11,976 INFO : 266 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 19:22:11,976 INFO : 266 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 19:22:11,976 INFO : 266 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 19:22:11,976 INFO : 266 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 19:22:11,976 INFO : 266 : Bomb Tower with 2.07 priority, completed percentage:75.00%
+2021-07-31 19:22:11,976 INFO : 266 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 19:22:11,976 INFO : 270 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 19:22:11,976 INFO : 266 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 19:22:11,976 INFO : 270 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 19:22:11,976 INFO : 266 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 19:22:11,976 INFO : 270 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 19:22:11,976 INFO : 266 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 19:22:11,977 INFO : 270 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 19:22:11,977 INFO : 266 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 19:22:11,977 INFO : 270 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 19:22:11,977 INFO : 266 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 19:22:11,977 INFO : 270 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 19:22:11,977 INFO : 266 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 19:22:11,977 INFO : 270 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 19:22:11,977 INFO : 266 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 19:22:11,977 INFO : 270 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 19:22:11,977 INFO : 266 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 19:22:11,977 INFO : 270 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 19:22:11,977 INFO : 266 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 19:22:11,977 INFO : 270 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 19:22:11,981 INFO : 309 : Done
+2021-07-31 19:32:03,797 INFO : 78 : ##################################################
+2021-07-31 19:32:03,797 INFO : 79 : #                     Start                      #
+2021-07-31 19:32:03,797 INFO : 80 : ##################################################
+2021-07-31 19:32:03,800 INFO : 259 : Spring Trap with 3.02 priority, completed percentage:113.33%
+2021-07-31 19:32:03,800 INFO : 259 : Clan Castle with 1.04 priority, completed percentage:100.00%
+2021-07-31 19:32:03,800 INFO : 259 : Gold Storage with 5.03 priority, completed percentage:95.45%
+2021-07-31 19:32:03,800 INFO : 259 : Gold Mine with 5.06 priority, completed percentage:91.21%
+2021-07-31 19:32:03,801 INFO : 259 : Elixir Storage with 5.02 priority, completed percentage:90.91%
+2021-07-31 19:32:03,801 INFO : 259 : Army Camp with 1.01 priority, completed percentage:90.62%
+2021-07-31 19:32:03,801 INFO : 259 : Barracks with 4.02 priority, completed percentage:89.58%
+2021-07-31 19:32:03,801 INFO : 259 : Mortar Normal with 2.01 priority, completed percentage:87.50%
+2021-07-31 19:32:03,801 INFO : 259 : Laboratory with 4.01 priority, completed percentage:87.50%
+2021-07-31 19:32:03,801 INFO : 259 : Air Defense with 2.06 priority, completed percentage:84.38%
+2021-07-31 19:32:03,801 INFO : 259 : X-Bow Ground with 1.02 priority, completed percentage:83.33%
+2021-07-31 19:32:03,801 INFO : 259 : Wall with 1.06 priority, completed percentage:83.01%
+2021-07-31 19:32:03,801 INFO : 259 : Elixir Collector with 5.05 priority, completed percentage:81.32%
+2021-07-31 19:32:03,801 INFO : 259 : Cannon Normal with 2.05 priority, completed percentage:80.77%
+2021-07-31 19:32:03,801 INFO : 259 : Dark Spell Factory with 4.05 priority, completed percentage:80.00%
+2021-07-31 19:32:03,801 INFO : 259 : Spell Factory with 4.04 priority, completed percentage:80.00%
+2021-07-31 19:32:03,801 INFO : 259 : Wizard Tower with 2.03 priority, completed percentage:77.78%
+2021-07-31 19:32:03,801 INFO : 259 : Archer Tower Long Range with 2.04 priority, completed percentage:75.82%
+2021-07-31 19:32:03,801 INFO : 259 : Air Bomb with 3.04 priority, completed percentage:75.00%
+2021-07-31 19:32:03,801 INFO : 259 : Bomb Tower with 2.07 priority, completed percentage:75.00%
+2021-07-31 19:32:03,801 INFO : 259 : Dark Barracks with 4.03 priority, completed percentage:71.43%
+2021-07-31 19:32:03,801 INFO : 263 : {
+    "Levels": {
+        "6": 1,
+        "4": 1
+    },
+    "priority": 4.03,
+    "Max_level": 7
+}
+2021-07-31 19:32:03,801 INFO : 259 : Inferno Tower Single Target with 1.03 priority, completed percentage:66.67%
+2021-07-31 19:32:03,801 INFO : 263 : {
+    "Levels": {
+        "2": 2
+    },
+    "priority": 1.03,
+    "Max_level": 3
+}
+2021-07-31 19:32:03,801 INFO : 259 : Giant Bomb with 3.03 priority, completed percentage:65.00%
+2021-07-31 19:32:03,801 INFO : 263 : {
+    "Levels": {
+        "3": 3,
+        "2": 2
+    },
+    "priority": 3.03,
+    "Max_level": 4
+}
+2021-07-31 19:32:03,801 INFO : 259 : Bomb with 3.01 priority, completed percentage:64.29%
+2021-07-31 19:32:03,802 INFO : 263 : {
+    "Levels": {
+        "6": 1,
+        "5": 1,
+        "4": 4
+    },
+    "priority": 3.01,
+    "Max_level": 7
+}
+2021-07-31 19:32:03,802 INFO : 259 : Air Sweeper with 2.02 priority, completed percentage:58.33%
+2021-07-31 19:32:03,802 INFO : 263 : {
+    "Levels": {
+        "5": 1,
+        "2": 1
+    },
+    "priority": 2.02,
+    "Max_level": 6
+}
+2021-07-31 19:32:03,802 INFO : 259 : Hidden Tesla with 1.05 priority, completed percentage:56.25%
+2021-07-31 19:32:03,802 INFO : 263 : {
+    "Levels": {
+        "6": 1,
+        "4": 3
+    },
+    "priority": 1.05,
+    "Max_level": 8
+}
+2021-07-31 19:32:03,802 INFO : 259 : Dark Elixir Storage with 5.01 priority, completed percentage:50.00%
+2021-07-31 19:32:03,802 INFO : 263 : {
+    "Levels": {
+        "3": 1
+    },
+    "priority": 5.01,
+    "Max_level": 6
+}
+2021-07-31 19:32:03,802 INFO : 259 : Skeleton Trap Ground with 3.06 priority, completed percentage:50.00%
+2021-07-31 19:32:03,802 INFO : 263 : {
+    "Levels": {
+        "2": 3
+    },
+    "priority": 3.06,
+    "Max_level": 4
+}
+2021-07-31 19:32:03,802 INFO : 259 : Dark Elixir Drill with 5.04 priority, completed percentage:38.10%
+2021-07-31 19:32:03,802 INFO : 263 : {
+    "Levels": {
+        "3": 2,
+        "2": 1
+    },
+    "priority": 5.04,
+    "Max_level": 7
+}
+2021-07-31 19:32:03,802 INFO : 259 : Seeking Air Mine with 3.05 priority, completed percentage:33.33%
+2021-07-31 19:32:03,802 INFO : 263 : {
+    "Levels": {
+        "1": 5
+    },
+    "priority": 3.05,
+    "Max_level": 3
+}
+2021-07-31 19:32:03,802 INFO : 290 : ##################################################
+2021-07-31 19:32:03,802 INFO : 293 : Priority 1,2,3,4,5 items completed:75.86%
+2021-07-31 19:32:03,802 INFO : 295 : with required time frame 105 days, 15:30:00
+2021-07-31 19:32:03,802 INFO : 300 : Next item to complete is Bomb Tower from 3 to 4 in 1:00:08
+2021-07-31 19:32:03,802 INFO : 301 : ##################################################
+2021-07-31 19:32:03,805 INFO : 308 : Done

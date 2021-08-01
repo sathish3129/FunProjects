@@ -1,0 +1,52 @@
+[
+    {
+        "Name": "Builder 1",
+        "Status": true,
+        "Item": "Bomb Tower",
+        "start_time": "2021-07-27 15:02:11.974347+00:00",
+        "from_level": 3,
+        "end_time": "2021-07-31 15:02:11.974347+00:00",
+        "Time_to_complete": null
+    },
+    {
+        "Name": "Builder 2",
+        "Status": true,
+        "Item": "Army Camp",
+        "start_time": "2021-07-28 09:07:26.722601+00:00",
+        "from_level": 7,
+        "end_time": "2021-07-31 21:07:26.722601+00:00",
+        "Time_to_complete": null
+    },
+    {
+        "Name": "Builder 3",
+        "Status": true,
+        "Item": "Army Camp",
+        "start_time": "2021-07-30 01:49:45.954496+00:00",
+        "from_level": 7,
+        "end_time": "2021-08-02 13:49:45.954496+00:00",
+        "Time_to_complete": null
+    },
+    {
+        "Name": "Builder 4",
+        "Status": true,
+        "Item": "X-Bow Ground",
+        "start_time": "2021-07-28 21:31:07.746433+00:00",
+        "from_level": 3,
+        "end_time": "2021-08-05 21:31:07.746433+00:00",
+        "Time_to_complete": null
+    },
+    {
+        "Name": "Builder 5",
+        "Status": null,
+        "Item": "",
+        "start_time": "2021-07-31 13:21:40.555404+00:00",
+        "from_level": 0,
+        "end_time": "2021-07-31 13:21:40.555404+00:00",
+        "Time_to_complete": "2021-07-31 13:21:40.555404+00:00"
+    },
+    {
+        "Name": "Next_Update",
+        "Status": null,
+        "update_available": true
+    }
+]

@@ -1,0 +1,644 @@
+{
+    "Wall": {
+        "Info": {
+            "9": {
+                "Gold": 364500000,
+                "Count": 243,
+                "more_level": 2,
+                "percentage": 19881.81818181818,
+                "Duration": 0
+            },
+            "10": {
+                "Gold": 28000000,
+                "Count": 28,
+                "more_level": 1,
+                "percentage": 2545.4545454545455,
+                "Duration": 0
+            },
+            "11": {
+                "Gold": 0,
+                "Count": 4,
+                "more_level": 0,
+                "percentage": 400.0,
+                "Duration": 0
+            }
+        },
+        "Duration": "0:00:00",
+        "Completed": 83.0082644628099
+    },
+    "Elixir Collector": {
+        "Info": {
+            "11": {
+                "Gold": 3000000,
+                "Count": 5,
+                "more_level": 2,
+                "percentage": 423.0769230769231,
+                "Duration": 1080000
+            },
+            "10": {
+                "Gold": 700000,
+                "Count": 1,
+                "more_level": 3,
+                "percentage": 76.92307692307692,
+                "Duration": 273600
+            },
+            "9": {
+                "Gold": 775000,
+                "Count": 1,
+                "more_level": 4,
+                "percentage": 69.23076923076923,
+                "Duration": 316800
+            }
+        },
+        "Duration": "19 days, 8:00:00",
+        "Completed": 81.31868131868133
+    },
+    "Gold Mine": {
+        "Info": {
+            "13": {
+                "Elixir": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            },
+            "12": {
+                "Elixir": 2000000,
+                "Count": 5,
+                "more_level": 1,
+                "percentage": 461.53846153846155,
+                "Duration": 720000
+            },
+            "10": {
+                "Elixir": 700000,
+                "Count": 1,
+                "more_level": 3,
+                "percentage": 76.92307692307692,
+                "Duration": 273600
+            }
+        },
+        "Duration": "11 days, 12:00:00",
+        "Completed": 91.20879120879121
+    },
+    "Dark Elixir Drill": {
+        "Info": {
+            "3": {
+                "Elixir": 13800000,
+                "Count": 2,
+                "more_level": 4,
+                "percentage": 85.71428571428571,
+                "Duration": 1296000
+            },
+            "2": {
+                "Elixir": 7800000,
+                "Count": 1,
+                "more_level": 5,
+                "percentage": 28.571428571428573,
+                "Duration": 712800
+            }
+        },
+        "Duration": "23 days, 6:00:00",
+        "Completed": 38.095238095238095
+    },
+    "Bomb": {
+        "Info": {
+            "6": {
+                "Gold": 1200000,
+                "Count": 1,
+                "more_level": 1,
+                "percentage": 85.71428571428571,
+                "Duration": 259200
+            },
+            "5": {
+                "Gold": 1800000,
+                "Count": 1,
+                "more_level": 2,
+                "percentage": 71.42857142857143,
+                "Duration": 388800
+            },
+            "4": {
+                "Gold": 8400000,
+                "Count": 4,
+                "more_level": 3,
+                "percentage": 228.57142857142858,
+                "Duration": 1814400
+            }
+        },
+        "Duration": "28 days, 12:00:00",
+        "Completed": 64.28571428571429
+    },
+    "Spring Trap": {
+        "Info": {
+            "3": {
+                "Gold": 2400000,
+                "Count": 1,
+                "more_level": 2,
+                "percentage": 60.0,
+                "Duration": 388800
+            },
+            "1": {
+                "Gold": -67200000,
+                "Count": -21,
+                "more_level": 4,
+                "percentage": -420.0,
+                "Duration": -10432800
+            },
+            "2": {
+                "Gold": 75400000,
+                "Count": 26,
+                "more_level": 3,
+                "percentage": 1040.0,
+                "Duration": 11793600
+            }
+        },
+        "Duration": "20 days, 6:00:00",
+        "Completed": 113.33333333333333
+    },
+    "Dark Barracks": {
+        "Info": {
+            "6": {
+                "Elixir": 3000000,
+                "Count": 1,
+                "more_level": 1,
+                "percentage": 85.71428571428571,
+                "Duration": 432000
+            },
+            "4": {
+                "Elixir": 7500000,
+                "Count": 1,
+                "more_level": 3,
+                "percentage": 57.142857142857146,
+                "Duration": 864000
+            }
+        },
+        "Duration": "15 days, 0:00:00",
+        "Completed": 71.42857142857143
+    },
+    "Army Camp": {
+        "Info": {
+            "8": {
+                "Elixir": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            },
+            "7": {
+                "Elixir": 9000000,
+                "Count": 3,
+                "more_level": 1,
+                "percentage": 262.5,
+                "Duration": 907200
+            }
+        },
+        "Duration": "10 days, 12:00:00",
+        "Completed": 90.625
+    },
+    "Barracks": {
+        "Info": {
+            "12": {
+                "Elixir": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            },
+            "11": {
+                "Elixir": 3000000,
+                "Count": 1,
+                "more_level": 1,
+                "percentage": 91.66666666666667,
+                "Duration": 345600
+            },
+            "10": {
+                "Elixir": 10000000,
+                "Count": 2,
+                "more_level": 2,
+                "percentage": 166.66666666666666,
+                "Duration": 1123200
+            }
+        },
+        "Duration": "17 days, 0:00:00",
+        "Completed": 89.58333333333334
+    },
+    "Giant Bomb": {
+        "Info": {
+            "3": {
+                "Gold": 7200000,
+                "Count": 3,
+                "more_level": 1,
+                "percentage": 225.0,
+                "Duration": 777600
+            },
+            "2": {
+                "Gold": 6000000,
+                "Count": 2,
+                "more_level": 2,
+                "percentage": 100.0,
+                "Duration": 691200
+            }
+        },
+        "Duration": "17 days, 0:00:00",
+        "Completed": 65.0
+    },
+    "Mortar Normal": {
+        "Info": {
+            "8": {
+                "Gold": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            },
+            "7": {
+                "Gold": 8000000,
+                "Count": 2,
+                "more_level": 1,
+                "percentage": 175.0,
+                "Duration": 691200
+            },
+            "6": {
+                "Gold": 6000000,
+                "Count": 1,
+                "more_level": 2,
+                "percentage": 75.0,
+                "Duration": 604800
+            }
+        },
+        "Duration": "15 days, 0:00:00",
+        "Completed": 87.5
+    },
+    "Laboratory": {
+        "Info": {
+            "7": {
+                "Elixir": 2500000,
+                "Count": 1,
+                "more_level": 1,
+                "percentage": 87.5,
+                "Duration": 172800
+            }
+        },
+        "Duration": "2 days, 0:00:00",
+        "Completed": 87.5
+    },
+    "Air Sweeper": {
+        "Info": {
+            "5": {
+                "Gold": 4000000,
+                "Count": 1,
+                "more_level": 1,
+                "percentage": 83.33333333333333,
+                "Duration": 259200
+            },
+            "2": {
+                "Gold": 8600000,
+                "Count": 1,
+                "more_level": 4,
+                "percentage": 33.333333333333336,
+                "Duration": 583200
+            }
+        },
+        "Duration": "9 days, 18:00:00",
+        "Completed": 58.33333333333333
+    },
+    "Wizard Tower": {
+        "Info": {
+            "9": {
+                "Gold": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            },
+            "8": {
+                "Gold": 5200000,
+                "Count": 1,
+                "more_level": 1,
+                "percentage": 88.88888888888889,
+                "Duration": 518400
+            },
+            "7": {
+                "Gold": 8900000,
+                "Count": 1,
+                "more_level": 2,
+                "percentage": 77.77777777777777,
+                "Duration": 820800
+            },
+            "4": {
+                "Gold": 14000000,
+                "Count": 1,
+                "more_level": 5,
+                "percentage": 44.44444444444444,
+                "Duration": 1209600
+            }
+        },
+        "Duration": "29 days, 12:00:00",
+        "Completed": 77.77777777777777
+    },
+    "Air Defense": {
+        "Info": {
+            "8": {
+                "Gold": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            },
+            "7": {
+                "Gold": 4000000,
+                "Count": 1,
+                "more_level": 1,
+                "percentage": 87.5,
+                "Duration": 432000
+            },
+            "6": {
+                "Gold": 12000000,
+                "Count": 2,
+                "more_level": 2,
+                "percentage": 150.0,
+                "Duration": 1382400
+            }
+        },
+        "Duration": "21 days, 0:00:00",
+        "Completed": 84.375
+    },
+    "Archer Tower Long Range": {
+        "Info": {
+            "8": {
+                "Gold": 18600000,
+                "Count": 2,
+                "more_level": 5,
+                "percentage": 123.07692307692308,
+                "Duration": 1094400
+            },
+            "9": {
+                "Gold": 16800000,
+                "Count": 2,
+                "more_level": 4,
+                "percentage": 138.46153846153845,
+                "Duration": 993600
+            },
+            "10": {
+                "Gold": 7200000,
+                "Count": 1,
+                "more_level": 3,
+                "percentage": 76.92307692307692,
+                "Duration": 432000
+            },
+            "12": {
+                "Gold": 3200000,
+                "Count": 1,
+                "more_level": 1,
+                "percentage": 92.3076923076923,
+                "Duration": 216000
+            },
+            "13": {
+                "Gold": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            }
+        },
+        "Duration": "31 days, 16:00:00",
+        "Completed": 75.82417582417581
+    },
+    "X-Bow Ground": {
+        "Info": {
+            "4": {
+                "Gold": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            },
+            "3": {
+                "Gold": 10000000,
+                "Count": 2,
+                "more_level": 1,
+                "percentage": 150.0,
+                "Duration": 1382400
+            }
+        },
+        "Duration": "16 days, 0:00:00",
+        "Completed": 83.33333333333333
+    },
+    "Hidden Tesla": {
+        "Info": {
+            "6": {
+                "Gold": 5200000,
+                "Count": 1,
+                "more_level": 2,
+                "percentage": 75.0,
+                "Duration": 691200
+            },
+            "4": {
+                "Gold": 24000000,
+                "Count": 3,
+                "more_level": 4,
+                "percentage": 150.0,
+                "Duration": 2851200
+            }
+        },
+        "Duration": "41 days, 0:00:00",
+        "Completed": 56.25
+    },
+    "Dark Spell Factory": {
+        "Info": {
+            "4": {
+                "Elixir": 3000000,
+                "Count": 1,
+                "more_level": 1,
+                "percentage": 80.0,
+                "Duration": 518400
+            }
+        },
+        "Duration": "6 days, 0:00:00",
+        "Completed": 80.0
+    },
+    "Spell Factory": {
+        "Info": {
+            "4": {
+                "Elixir": 2400000,
+                "Count": 1,
+                "more_level": 1,
+                "percentage": 80.0,
+                "Duration": 432000
+            }
+        },
+        "Duration": "5 days, 0:00:00",
+        "Completed": 80.0
+    },
+    "Inferno Tower Single Target": {
+        "Info": {
+            "2": {
+                "Gold": 12000000,
+                "Count": 2,
+                "more_level": 1,
+                "percentage": 133.33333333333334,
+                "Duration": 864000
+            }
+        },
+        "Duration": "10 days, 0:00:00",
+        "Completed": 66.66666666666667
+    },
+    "Cannon Normal": {
+        "Info": {
+            "10": {
+                "Gold": 31250000,
+                "Count": 5,
+                "more_level": 3,
+                "percentage": 384.6153846153846,
+                "Duration": 2160000
+            },
+            "13": {
+                "Gold": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            }
+        },
+        "Duration": "25 days, 0:00:00",
+        "Completed": 80.76923076923076
+    },
+    "Gold Storage": {
+        "Info": {
+            "11": {
+                "Elixir": 0,
+                "Count": 3,
+                "more_level": 0,
+                "percentage": 300.0,
+                "Duration": 0
+            },
+            "9": {
+                "Elixir": 750000,
+                "Count": 1,
+                "more_level": 2,
+                "percentage": 81.81818181818181,
+                "Duration": 100800
+            }
+        },
+        "Duration": "1 day, 4:00:00",
+        "Completed": 95.45454545454545
+    },
+    "Elixir Storage": {
+        "Info": {
+            "10": {
+                "Gold": 2000000,
+                "Count": 4,
+                "more_level": 1,
+                "percentage": 363.6363636363636,
+                "Duration": 230400
+            }
+        },
+        "Duration": "2 days, 16:00:00",
+        "Completed": 90.9090909090909
+    },
+    "Dark Elixir Storage": {
+        "Info": {
+            "3": {
+                "Elixir": 6500000,
+                "Count": 1,
+                "more_level": 3,
+                "percentage": 50.0,
+                "Duration": 561600
+            }
+        },
+        "Duration": "6 days, 12:00:00",
+        "Completed": 50.0
+    },
+    "Clan Castle": {
+        "Info": {
+            "6": {
+                "Gold": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            }
+        },
+        "Duration": "0:00:00",
+        "Completed": 100.0
+    },
+    "Air Bomb": {
+        "Info": {
+            "3": {
+                "Gold": 2400000,
+                "Count": 3,
+                "more_level": 1,
+                "percentage": 225.0,
+                "Duration": 259200
+            },
+            "2": {
+                "Gold": 1000000,
+                "Count": 1,
+                "more_level": 2,
+                "percentage": 50.0,
+                "Duration": 129600
+            },
+            "4": {
+                "Gold": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            }
+        },
+        "Duration": "4 days, 12:00:00",
+        "Completed": 75.0
+    },
+    "Bomb Tower": {
+        "Info": {
+            "2": {
+                "Gold": 6500000,
+                "Count": 1,
+                "more_level": 2,
+                "percentage": 50.0,
+                "Duration": 518400
+            },
+            "3": {
+                "Gold": 0,
+                "Count": 0,
+                "more_level": 1,
+                "percentage": 0.0,
+                "Duration": 0
+            },
+            "4": {
+                "Gold": 0,
+                "Count": 1,
+                "more_level": 0,
+                "percentage": 100.0,
+                "Duration": 0
+            }
+        },
+        "Duration": "6 days, 0:00:00",
+        "Completed": 75.0
+    },
+    "Seeking Air Mine": {
+        "Info": {
+            "1": {
+                "Gold": 17500000,
+                "Count": 5,
+                "more_level": 2,
+                "percentage": 166.66666666666669,
+                "Duration": 1728000
+            }
+        },
+        "Duration": "20 days, 0:00:00",
+        "Completed": 33.333333333333336
+    },
+    "Skeleton Trap Ground": {
+        "Info": {
+            "2": {
+                "Gold": 9600000,
+                "Count": 3,
+                "more_level": 2,
+                "percentage": 150.0,
+                "Duration": 648000
+            }
+        },
+        "Duration": "7 days, 12:00:00",
+        "Completed": 50.0
+    }
+}
